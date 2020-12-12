@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name modulation_source)(type KiCad)(uri ${KIPRJMOD}/modulation_source_parts/modulation_source.pretty)(options "")(descr ""))
+)

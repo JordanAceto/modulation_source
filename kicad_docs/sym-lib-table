@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name modulation_source-cache)(type Legacy)(uri ${KIPRJMOD}/modulation_source-cache.lib)(options "")(descr "")(disabled))
+  (lib (name modulation_source_parts)(type Legacy)(uri ${KIPRJMOD}/modulation_source_parts/modulation_source_parts.lib)(options "")(descr ""))
+)
